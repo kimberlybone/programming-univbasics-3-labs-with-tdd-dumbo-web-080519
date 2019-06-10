@@ -1,1 +1,2 @@
-first_number = get_variable_from_file # Add your variables here
+first_number = 1 # Add your variables here
+second_number = 
